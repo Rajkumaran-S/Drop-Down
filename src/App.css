@@ -1,15 +1,18 @@
 #root {
   color: black;
   font-size: large;
-  font-weight: 500;
+  font-weight: 400;
+  background: linear-gradient(132deg, rgb(161, 255, 255) 0.00%, rgb(0, 216, 216) 62.36%);
+  width: 100%;
 }
 
 .submenu {
   display: none;
-  background-color: whitesmoke;
+  background: linear-gradient(132deg, rgb(221, 221, 221) 0.00%, rgb(110, 136, 161) 100.00%);
   font-size: medium;
   font-weight: lighter;
   padding-left: 90px;
+  width: 50%;
 }
 
 ul {
